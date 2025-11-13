@@ -8,9 +8,16 @@ Here we present a Julia implementation for solving this problem using an ILP app
 
 ## Authors
 
+### Original Pentomino Fence and Tessellations
+
 * Alexis Langlois-Rémillard (alexislangloisremillard@gmail.com) https://alexisl-r.github.io/
 * Mia Müßig (nienna@miamuessig.de) https://miamuessig.de/
 * Erika Roldan (erika.roldan@ma.tum.de) https://www.erikaroldan.net/
+
+### New Hexomino Fence
+
+* Mykhailo Lyader
+* Helmut Podhaisky (helmut.podhaisky@mathematik.uni-halle.de)
 
 ## License
 This project is licensed under the MIT License - see LICENSE file for details. If you use this code for academic purposes, please cite the paper:
